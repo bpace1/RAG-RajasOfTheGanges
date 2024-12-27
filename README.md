@@ -3,7 +3,7 @@
 Universidad Nacional de Rosario - Facultad de Ciencias Exactas, Ingeniería y Agrimensura.
 Tecnicatura Universitaria en Inteligencia Artificial.
 
-#Procesamiento de Lenguaje Natural.
+# Procesamiento de Lenguaje Natural.
 
 - Alumno: Pace, Bruno.
 
